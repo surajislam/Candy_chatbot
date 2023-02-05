@@ -18,14 +18,11 @@
 <a href="https://github.com/its-star-boi/Candy_chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=its-star-boi &repo=Candy_chatbot&theme=chartreuse-dark"></a>
 
 ### sᴜᴘᴘᴏʀᴛ
-<p align="center"><a href="https://t.me/we_rfriends"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
-<p align="center"><a href="https://t.me/DEVBOTZ"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/Best_FriendsFor_Ever"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20GROUP-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
+<p align="center"><a href="https://t.me/Star_X_Network"> <img src="https://img.shields.io/badge/JOIN-SUPPORT%20CHANNEL-black?style=for-the-badge&logo=Telegram" width="220" height="38.5"/></a></p>
 
-## sᴘᴇᴄɪᴀʟ ᴛʜᴀɴᴋs 🙏
-- [ᴘʀᴀɴᴀᴠ ᴀᴊᴀʏ](https://github.com/Moezilla)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/AnonymousX1025)
-- [ᴀʙɪsʜɴᴏɪ](https://t.me/Abishnoi1m)
-- [ʜʏᴘᴇʀ ᴋɪɴɢ](https://t.me/HYPER_AD13)
+## ʀᴇᴘᴏ ᴄʀᴇᴅɪᴛ 
+- [ᴅᴇᴠ ᴀʀᴏʀᴀ](https://github.com/Devarora-0981)
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
