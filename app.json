@@ -1,6 +1,16 @@
 {
     "name": "Candy 💖",   
     "logo": "https://te.legra.ph/file/da880df27058a953ea175.png", 
+    "keywords": [
+    "python3",
+    "telegram",
+    "bot",
+    "Candy Chatbot",
+    "telegram-chat-bot",
+    "Chatbot",
+    "telegram-bot",
+    "pyrogram"
+    ],
     "env": {
         "BOT_TOKEN": {
             "description": "telegram bot token here",
