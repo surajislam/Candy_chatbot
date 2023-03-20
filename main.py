@@ -110,7 +110,7 @@ START = f"""
 **➻ ᴜsᴀɢᴇ /chatbot [ᴏɴ/ᴏғғ]**
 <b>||๏ ʜɪᴛ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ғᴏʀ ʜᴇʟᴘ.||</b>
 """
-DEV_OP = [
+AADITYA_OP = [
     [
         InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"t.me/{OWNER_USERNAME}"),
         InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/{SUPPORT_GRP}"),
@@ -125,8 +125,8 @@ DEV_OP = [
         InlineKeyboardButton(text="🚀 ʜᴇʟᴘ & ᴄᴍᴅs 🚀", callback_data="HELP"),
     ],
     [
-        InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", callback_data="SOURCE"),
-        InlineKeyboardButton(text="☁️ ᴀʙᴏᴜᴛ ☁️", callback_data="ABOUT"),
+        InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", url=f"https://t.me/saikostar_xd"),
+        InlineKeyboardButton(text="☁️ ᴀʙᴏᴜᴛ ☁️", url=f"https://t.me/saikostar_xd"),
     ],
 ]
 PNG_BTN = [
@@ -276,7 +276,7 @@ ABOUT_BTN = [
       ],
       [    
            InlineKeyboardButton(text="🍾 ᴏᴡɴᴇʀ 🍾", url=f"https://t.me/{OWNER_USERNAME}"), 
-           InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", callback_data="SOURCE"),
+           InlineKeyboardButton(text="❄️ sᴏᴜʀᴄᴇ ❄️", url=f"https://t.me/saikostar_xd"),
       ],
       [ 
            InlineKeyboardButton(text="🐳 ᴜᴘᴅᴀᴛᴇs 🐳", url=f"https://t.me/{UPDATE_CHNL}"),  
